@@ -1,5 +1,5 @@
-	giftcode = input("Please insert the GiftCode:")
-	player=["SrSteck"]
+	giftcode = "2021LORDS"
+	player= "SrSteck"
 
     print(player)
     time.sleep(1.5)
